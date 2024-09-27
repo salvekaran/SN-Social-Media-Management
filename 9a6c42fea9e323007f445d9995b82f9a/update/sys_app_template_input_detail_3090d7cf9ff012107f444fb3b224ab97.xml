@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_input_detail">
+    <sys_app_template_input_detail action="INSERT_OR_UPDATE">
+        <condition/>
+        <configuration_id/>
+        <order>100</order>
+        <referenced_table>sys_app_template_spoke_configuration</referenced_table>
+        <sys_class_name>sys_app_template_input_detail</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 06:18:58</sys_created_on>
+        <sys_id>3090d7cf9ff012107f444fb3b224ab97</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Social Media Management" source="x_snc_social_media">9a6c42fea9e323007f445d9995b82f9a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">9a6c42fea9e323007f445d9995b82f9a</sys_scope>
+        <sys_update_name>sys_app_template_input_detail_3090d7cf9ff012107f444fb3b224ab97</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 06:18:58</sys_updated_on>
+        <template_input display_value="table">47c18323730e30109e18b64bcaf6a780</template_input>
+        <template_page display_value="Trigger page">7490d7cf9ff012107f444fb3b224ab94</template_page>
+    </sys_app_template_input_detail>
+</record_update>

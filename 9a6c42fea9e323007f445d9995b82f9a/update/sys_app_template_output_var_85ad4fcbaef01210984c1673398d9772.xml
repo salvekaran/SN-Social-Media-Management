@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_output_var">
+    <sys_app_template_output_var action="INSERT_OR_UPDATE">
+        <default/>
+        <description/>
+        <flow_output_variable display_value="Output">74ad4fcb9ff012107f444fb3b224ab1a</flow_output_variable>
+        <label>flow_sys_id</label>
+        <name>flow_sys_id</name>
+        <sys_class_name>sys_app_template_output_var</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 06:06:09</sys_created_on>
+        <sys_id>85ad4fcbaef01210984c1673398d9772</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>flow_sys_id</sys_name>
+        <sys_package display_value="Social Media Management" source="x_snc_social_media">9a6c42fea9e323007f445d9995b82f9a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">9a6c42fea9e323007f445d9995b82f9a</sys_scope>
+        <sys_update_name>sys_app_template_output_var_85ad4fcbaef01210984c1673398d9772</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 06:06:09</sys_updated_on>
+        <template display_value="Social Media Response Approvals">60ad0fcb19f01210bc297b22d57f3add</template>
+        <type>String</type>
+    </sys_app_template_output_var>
+</record_update>
