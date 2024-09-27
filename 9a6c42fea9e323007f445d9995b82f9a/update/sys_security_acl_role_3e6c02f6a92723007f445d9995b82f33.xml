@@ -14,6 +14,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-02-14 17:32:41</sys_updated_on>
         <sys_user_role display_value="x_snc_social_media.user" name="x_snc_social_media.user">ea6c02f6a92723007f445d9995b82f06</sys_user_role>
-        <transaction_id/>
     </sys_security_acl_role>
 </record_update>

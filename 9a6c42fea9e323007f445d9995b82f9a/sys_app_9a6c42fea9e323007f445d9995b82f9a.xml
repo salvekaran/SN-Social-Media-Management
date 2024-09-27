@@ -16,6 +16,7 @@
         <logo/>
         <menu display_value="Social Media Management">626c02f6a92723007f445d9995b82f04</menu>
         <name>Social Media Management</name>
+        <package_json/>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>

@@ -3,6 +3,8 @@
         <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field>priority</field>
+        <field_message/>
+        <field_message_type/>
         <mandatory>true</mandatory>
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -18,6 +20,9 @@
         <sys_updated_on>2019-02-14 21:10:37</sys_updated_on>
         <table>x_snc_social_media_monitor</table>
         <ui_policy display_value="If type == negative, priority mandatory">dbed3e36a96723007f445d9995b82f53</ui_policy>
+        <value/>
+        <value_action/>
         <visible>ignore</visible>
     </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=944ebe36a96723007f445d9995b82fbb"/>
 </record_update>

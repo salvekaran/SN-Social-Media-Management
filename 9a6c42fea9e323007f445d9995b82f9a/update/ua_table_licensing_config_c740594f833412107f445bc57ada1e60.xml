@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-02-14 17:32:42</sys_created_on>
-        <sys_id>f948546e9fb012107f444fb3b224ab9e</sys_id>
+        <sys_id>c740594f833412107f445bc57ada1e60</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_social_media_monitor</sys_name>
         <sys_package display_value="Social Media Management" source="x_snc_social_media">9a6c42fea9e323007f445d9995b82f9a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Social Media Management">9a6c42fea9e323007f445d9995b82f9a</sys_scope>
-        <sys_update_name>ua_table_licensing_config_f948546e9fb012107f444fb3b224ab9e</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_c740594f833412107f445bc57ada1e60</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-02-14 17:32:42</sys_updated_on>
     </ua_table_licensing_config>
